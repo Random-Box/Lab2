@@ -1,0 +1,15 @@
+C:\Users\Sukll\Desktop\lol\lab 2 disk\bin\Debug\lab 2 disk.exe
+C:\Users\Sukll\Desktop\lol\lab 2 disk\bin\Debug\lab 2 disk.pdb
+C:\Users\Sukll\Desktop\lol\lab 2 disk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sukll\Desktop\lol\lab 2 disk\obj\x86\Debug\lab 2 disk.exe
+C:\Users\Sukll\Desktop\lol\lab 2 disk\obj\x86\Debug\lab 2 disk.pdb
+G:\2 курс лабы\Дискр.ст\Лаба 2\lab 2 disk\obj\x86\Debug\lab 2 disk.exe
+G:\2 курс лабы\Дискр.ст\Лаба 2\lab 2 disk\obj\x86\Debug\lab 2 disk.pdb
+G:\2 курс лабы\Дискр.ст\Лаба 2\lab 2 disk\bin\Debug\lab 2 disk.exe
+G:\2 курс лабы\Дискр.ст\Лаба 2\lab 2 disk\bin\Debug\lab 2 disk.pdb
+G:\2 курс лабы\Дискр.ст\Лаба 2\lab 2 disk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 disk\obj\x86\Debug\lab 2 disk.exe
+C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 disk\obj\x86\Debug\lab 2 disk.pdb
+C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 disk\bin\Debug\lab 2 disk.exe
+C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 disk\bin\Debug\lab 2 disk.pdb
+C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 disk\obj\x86\Debug\lab 2 disk.csprojResolveAssemblyReference.cache
