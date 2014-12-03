@@ -122,7 +122,7 @@ namespace lab_2_disk
         {
             
             int[][] matr_graf = new int[0][];
-            //matr_graf[0] = new int[] {1, 0, 1, 0, 0, 0, 0};
+            //matr_graf[0] = new int[] {1, 0, 1, 0, 0, 0, 1};
             //matr_graf[1] = new int[] {1, 0, 0, 0, 0, 0, 0};
             //matr_graf[2] = new int[] {0, 1, 0, 0, 0, 0, 0};
             //matr_graf[3] = new int[] {0, 0, 1, 0, 0, 0, 1};

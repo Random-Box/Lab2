@@ -13,3 +13,5 @@ C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 disk\obj\x8
 C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 disk\bin\Debug\lab 2 disk.exe
 C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 disk\bin\Debug\lab 2 disk.pdb
 C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 disk\obj\x86\Debug\lab 2 disk.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 diskc\obj\x86\Debug\lab 2 disk.exe
+C:\Users\Александр\Desktop\Дискр.ст\Лаба 2\lab 2 diskc\obj\x86\Debug\lab 2 disk.pdb
